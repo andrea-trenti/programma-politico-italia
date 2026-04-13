@@ -16,8 +16,8 @@ Documento più breve, pensato per:
 - lettura introduttiva;
 - base di discussione e illustrazione.
 
-## 3. Futuro rapporto tecnico
-Elaborato separato, destinato a contenere:
+## 3. Rapporto tecnico
+Elaborato professionale destinato a contenere:
 - numeri;
 - stime;
 - coperture;
