@@ -55,6 +55,9 @@ Questa repository documenta un lavoro di impostazione politico-programmatica in 
 
 - `docs/sintesi-programmatica-per-l-italia.docx`  
   Documento sintetico per presentazione.
+  
+- `docs/elaborato-tecnico.docx`  
+  Documento tecnico e pragmatico.
 
 - `DISCLAIMER.md`  
   Clausole di cautela, limiti di utilizzo e responsabilità.
