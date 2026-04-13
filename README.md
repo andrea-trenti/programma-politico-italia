@@ -50,13 +50,13 @@ Questa repository documenta un lavoro di impostazione politico-programmatica in 
 
 ## Struttura essenziale
 
-- `docs/manifesto-programmatico-per-l-italia.docx`  
+- `docs/manifesto-programmatico-per-l-italia.pdf`  
   Documento generale, esteso e strutturato.
 
-- `docs/sintesi-programmatica-per-l-italia.docx`  
+- `docs/sintesi-programmatica-per-l-italia.pdf`  
   Documento sintetico per presentazione.
   
-- `docs/elaborato-tecnico.docx`  
+- `docs/elaborato-tecnico.pdf`  
   Documento tecnico e pragmatico.
 
 - `DISCLAIMER.md`  
