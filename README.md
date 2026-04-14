@@ -58,7 +58,10 @@ Questa repository documenta un lavoro di impostazione politico-programmatica in 
   
 - `docs/elaborato-tecnico.pdf`  
   Documento tecnico e pragmatico.
-
+  
+- `docs/analisi-tecnico-finanziaria-riduzione-disavanzo-quinquennale.pdf`  
+  Documento analitico e strutturato.
+  
 - `DISCLAIMER.md`  
   Clausole di cautela, limiti di utilizzo e responsabilità.
 
